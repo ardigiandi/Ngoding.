@@ -13,7 +13,8 @@ const HomePage = () => {
         <div className="hero grid md:grid-cols-2 grid-cols-1 items-center gap-20 pt-32">
           <div className="box">
             <h1 className="lg:text-5xl/tight text-3xl font-medium mb-7">
-              Danisa dan Veronika Adalah Bestfriend Forever
+              Belajar Membuat Website Dengan{" "}
+              <span className="text-sky-400 underline">Tailwind CSS</span>
             </h1>
             <p className="text-base/8 mb-7">
               Lorem ipsum dolor sit amet consectetur adipisicing elit.
@@ -49,10 +50,8 @@ const HomePage = () => {
           </div>
           <div className="box md:order-2 order-1">
             <h1 className="lg:text-5xl/tight text-3xl font-medium mb-7">
-              Tutorial Biar Ga Keren Seperti{" "}
-              <span className="font-bold text-sky-400 underline">
-                Danisa Arwanti
-              </span>
+              Belajar Membuat Website Dengan{" "}
+              <span className="text-sky-400 underline">Tailwind CSS</span>
             </h1>
             <p className="text-base/loose">
               Lorem ipsum dolor sit amet consectetur adipisicing elit.

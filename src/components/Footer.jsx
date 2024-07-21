@@ -3,7 +3,7 @@ const Footer = () => {
     <div className="footer bg-white mt-20" id="sosial">
       <div className="container flex justify-between items-center mx-auto px-4">
         <p className="py-4">
-          &copy; Copyright by <span className="font-bold">Ardi Keren</span>
+          &copy; Copyright by <span className="font-bold">Ngoding Mastery</span>
         </p>
         <div className="sosial-footer items-center flex sm:gap-7 gap-3">
           <i className="ri-facebook-circle-fill text-2xl"></i>
